@@ -60,5 +60,5 @@ Personal Hardware → NinaGate (proxy/router) → Agent Mesh
 ## Find Me
 
 - **Site:** [aibony.github.io](https://aibony.github.io)
-- **LinkedIn:** [linkedin.com/in/mba009](https://linkedin.com/in/mba009)
+- **LinkedIn:** [linkedin.com/in/mba2009](https://linkedin.com/in/mba2009)
 - **NINA repo:** [github.com/aibony/nina](https://github.com/aibony/nina)
