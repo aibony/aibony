@@ -10,21 +10,52 @@ Bangladesh · [aibony.github.io](https://aibony.github.io) · Open for consultin
 
 I design and operate **governed, local-first AI infrastructure** — systems that are auditable, hardware-constrained by design, and built to run without cloud dependency.
 
-For the past two years I have been developing **NINA** — a multi-agent AI operating system that runs entirely on personal hardware. NINA receives commands via Telegram, routes them through specialized agents (coding, research, GitHub automation, memory), and operates a persistent async OODA loop 24/7. No subscription. No vendor lock-in. Full audit trail.
+Since 2024, across successive iterations (current codebase since June 2026), I have been developing **NINA** — a multi-agent AI operating system that runs entirely on personal hardware. NINA receives commands via Telegram, routes them through specialized agents (coding, research, GitHub automation, memory), and operates a persistent async OODA loop 24/7. No subscription. No vendor lock-in. Full audit trail.
 
-> NINA is private R&D and not for sale. What I offer is the ability to design comparable governed AI systems for your organization.
+> NINA is private R&D and not for sale. What I offer is the ability to design comparable governed AI systems for your organization. See her in action: [live demo on YouTube](https://youtu.be/3cRpDgVsuMU).
 
 ---
 
 ## NINA — Local-First AI Infrastructure
 
 ```
-Personal Hardware → NinaGate (proxy/router) → Agent Mesh
-                                              ├── OpenCode  (coding)
-                                              ├── Jules     (GitHub automation)
-                                              ├── Gemini    (research)
-                                              ├── Perplexity (search)
-                                              └── NinaMCP   (tool execution)
+┌─────────────────────────────────────────────────────────────┐
+│                        PERSONAL HARDWARE                    │
+│                                                             │
+│   ┌───────────┐                                             │
+│   │  OPERATOR │  ← Telegram (commands + alerts)             │
+│   └─────┬─────┘                                             │
+│         │                                                   │
+│         ▼                                                   │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │                    GATEWAY                        │     │
+│   │        (proxy / router — single entry point)      │     │
+│   └───────────────────────────┬───────────────────────┘     │
+│                               │                             │
+│                               ▼                             │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │                GOVERNANCE LAYER                   │     │
+│   │   audit trail · discipline enforcement · SSOT     │     │
+│   └───────────────────────────┬───────────────────────┘     │
+│                               │                             │
+│         ┌──────────────┬──────┴──────┬──────────────┐       │
+│         ▼              ▼             ▼              ▼       │
+│   ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐    │
+│   │  CODING  │  │ RESEARCH │  │  GITHUB  │  │  MEMORY  │    │
+│   │  ENGINE  │  │  ENGINE  │  │  ENGINE  │  │  ENGINE  │    │
+│   └──────────┘  └──────────┘  └──────────┘  └──────────┘    │
+│                                                             │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │              TIERED INFERENCE                     │     │
+│   │   local (on-device) ←→ cloud (only when needed)   │     │
+│   └───────────────────────────────────────────────────┘     │
+│                                                             │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │              PERSISTENT STATE                     │     │
+│   │        (survives restarts, no session loss)       │     │
+│   └───────────────────────────────────────────────────┘     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 **Design principles:**
@@ -57,8 +88,38 @@ Personal Hardware → NinaGate (proxy/router) → Agent Mesh
 
 ---
 
+## Proof
+
+Same question, three frontier models, independent assessments — plus computed system evidence:
+
+- [proof1.jpg](https://aibony.github.io/proof1.jpg) — computed system evidence snapshot (live session)
+- [proof2.jpg](https://aibony.github.io/proof2.jpg) — independent model assessment (Codex CLI)
+- [proof3.jpg](https://aibony.github.io/proof3.jpg) — independent model assessment (Gemini CLI)
+
+---
+
 ## Find Me
 
-- **Site:** [aibony.github.io](https://aibony.github.io)
+- **Hire me · Upwork:** [upwork.com/freelancers/~01a168174960b876b3](https://www.upwork.com/freelancers/~01a168174960b876b3?mp_source=share)
+- **Hire me · Fiverr:** [fiverr.com/s/NN7o0la](https://www.fiverr.com/s/NN7o0la)
+- **NINA updates:** [github.com/aibony/aibony](https://github.com/aibony/aibony)
+- **CV (always latest):** [aibony.github.io/cv.pdf](https://aibony.github.io/cv.pdf)
+- **CV — Dark Edition:** [aibony.github.io/ocv.pdf](https://aibony.github.io/ocv.pdf)
+- **CV — Printable:** [aibony.github.io/pcv.pdf](https://aibony.github.io/pcv.pdf)
+- **Portfolio:** [aibony.github.io/portfolio.pdf](https://aibony.github.io/portfolio.pdf)
+- **Demo (self-hosted):** [aibony.github.io/demo.mp4](https://aibony.github.io/demo.mp4)
+- **Site & full portfolio:** [aibony.github.io](https://aibony.github.io)
+- **NINA demo (video):** [youtu.be/3cRpDgVsuMU](https://youtu.be/3cRpDgVsuMU)
+- **YouTube channel:** [aibony — all videos](https://www.youtube.com/channel/UC-euP2-Ap09h2-wIcv1FEmA)
 - **LinkedIn:** [linkedin.com/in/mba2009](https://linkedin.com/in/mba2009)
-- **NINA repo:** [github.com/aibony/nina](https://github.com/aibony/nina)
+- **Email:** baizid.alam@gmail.com
+- **Call / WhatsApp:** [+88 0171 348 7996](https://wa.me/8801713487996)
+
+---
+
+## Updates
+
+*(Dated NINA development log — newest first.)*
+
+- **2026-07** — Full-system deduplication overhaul in progress: SSOT enforcement across the entire codebase; services intentionally halted for the refactor window.
+- **2026-07** — Public presence overhaul: canonical timeless links (cv / ocv / pcv / portfolio), rebuilt site, portfolio dossier.
