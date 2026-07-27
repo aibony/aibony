@@ -8,6 +8,8 @@ Bangladesh · [aibony.github.io](https://aibony.github.io) · Open for consultin
 
 ## What I Build
 
+I am a mechanical engineer. Mechanical engineers mechanise things — I mechanised DevOps.
+
 I design and operate **governed, local-first AI infrastructure** — systems that are auditable, hardware-constrained by design, and built to run without cloud dependency.
 
 Since 2024, across successive iterations (current codebase since June 2026), I have been developing **NINA** — a multi-agent AI operating system that runs entirely on personal hardware. NINA receives commands via Telegram, routes them through specialized agents (coding, research, GitHub automation, memory), and operates a persistent async OODA loop 24/7. No subscription. No vendor lock-in. Full audit trail.
@@ -108,6 +110,7 @@ Same question, three frontier models, independent assessments — plus computed 
 - **CV — Printable:** [aibony.github.io/pcv.pdf](https://aibony.github.io/pcv.pdf)
 - **Portfolio:** [aibony.github.io/portfolio.pdf](https://aibony.github.io/portfolio.pdf)
 - **Demo (self-hosted):** [aibony.github.io/demo.mp4](https://aibony.github.io/demo.mp4)
+- **Long-form profile:** [The Human Behind the Machine](https://aibony.github.io/dossier.html)
 - **Site & full portfolio:** [aibony.github.io](https://aibony.github.io)
 - **NINA demo (video):** [youtu.be/3cRpDgVsuMU](https://youtu.be/3cRpDgVsuMU)
 - **YouTube channel:** [aibony — all videos](https://www.youtube.com/channel/UC-euP2-Ap09h2-wIcv1FEmA)
