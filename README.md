@@ -68,6 +68,31 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 
 ---
 
+<!-- NINA:LIVE:START -->
+## Live system metrics
+
+*Machine-generated. This block is rewritten automatically every 30 minutes by a job running on the hardware described below — nothing here is typed by hand.*
+
+| Metric | Value |
+|---|---|
+| Commits | **11,123** |
+| Merged PRs | **2,585** |
+| Governed elements | **38,436** |
+| Classified entities | **2,577** |
+| Capabilities | **546** |
+| Dependency edges | **853** |
+| Python modules | **955** |
+| Test files | **534** |
+| Decision records (ADR) | **30** |
+| Kernel directives | **205** |
+| Governance gate | **PASS · 100.0/100** |
+| Version history | **652.5 MB** |
+
+Open PRs **0** · open branches **8** · all of it under a **2 GB VRAM** ceiling.
+
+Last sync **2026-08-04 20:31 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+<!-- NINA:LIVE:END -->
+
 ## Background
 
 | Domain | Depth |
@@ -97,6 +122,11 @@ Same question, three frontier models, independent assessments — plus computed 
 - [proof1.jpg](https://aibony.github.io/proof1.jpg) — computed system evidence snapshot (live session)
 - [proof2.jpg](https://aibony.github.io/proof2.jpg) — independent model assessment (Codex CLI)
 - [proof3.jpg](https://aibony.github.io/proof3.jpg) — independent model assessment (Gemini CLI)
+- **[Live architecture graph](https://aibony.github.io/architecture.html)** — not a diagram; the real NDS graph, machine-generated on every publish. Click any module to walk four tiers deep: subdomains → functions → parameters.
+- **[Live status page](https://aibony.github.io/systems.html)** — repository health, build pipelines and tooling, re-synced every 30 minutes.
+- **[Raw metrics feed](https://aibony.github.io/stats.json)** — the JSON behind every number above, published openly.
+
+**What you can verify without trusting me:** the architecture graph, the raw feed, the deployment clock on [the site](https://aibony.github.io) (fetched from GitHub's API by your own browser), and the published essays. **What you cannot:** the repository is private, so commit and element counts are computed inside it and published here. I would rather name that limit than have it discovered.
 
 ---
 
@@ -107,11 +137,12 @@ Same question, three frontier models, independent assessments — plus computed 
 - **NINA updates:** [github.com/aibony/aibony](https://github.com/aibony/aibony)
 - **CV (always latest):** [aibony.github.io/cv.pdf](https://aibony.github.io/cv.pdf)
 - **CV — Dark Edition:** [aibony.github.io/ocv.pdf](https://aibony.github.io/ocv.pdf)
-- **CV — Printable:** [aibony.github.io/pcv.pdf](https://aibony.github.io/pcv.pdf)
 - **Portfolio:** [aibony.github.io/portfolio.pdf](https://aibony.github.io/portfolio.pdf)
 - **Demo (self-hosted):** [aibony.github.io/demo.mp4](https://aibony.github.io/demo.mp4)
 - **Long-form profile:** [The Human Behind the Machine](https://aibony.github.io/profile.html)
 - **Evidence / case file:** [aibony.github.io/evidence.html](https://aibony.github.io/evidence.html)
+- **Live architecture graph:** [aibony.github.io/architecture.html](https://aibony.github.io/architecture.html)
+- **Live system status:** [aibony.github.io/systems.html](https://aibony.github.io/systems.html)
 - **Site & full portfolio:** [aibony.github.io](https://aibony.github.io)
 - **NINA demo (video):** [youtu.be/3cRpDgVsuMU](https://youtu.be/3cRpDgVsuMU)
 - **YouTube channel:** [aibony — all videos](https://www.youtube.com/channel/UC-euP2-Ap09h2-wIcv1FEmA)
