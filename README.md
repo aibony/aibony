@@ -95,12 +95,16 @@ Last sync **2026-08-05 05:30 UTC** · [raw feed](https://aibony.github.io/stats.
 
 ## Background
 
-| Domain | Depth |
-|---|---|
-| AI & Agent Systems | Multi-agent orchestration, LLM routing, local inference, token optimization |
-| Banking & Trade Finance | SWIFT Alliance administration, CBPR+ / ISO 20022 migration, AML/KYC |
-| Compliance | ISO/IEC 27001 Lead Auditor, Basel III, ICRRS credit risk frameworks |
-| Engineering | Python, DevOps, Git, distributed async systems, API design |
+**One person. Six disciplines. Nearly 17 years.**
+
+| # | Discipline | Evidence |
+|---|---|---|
+| 1 | Mechanical engineering | B.Sc., IUT, OIC scholarship |
+| 2 | Business & management | MBA summa cum laude, NSU |
+| 3 | Banking operations | Cash, general banking, credit |
+| 4 | Trade finance & payments | LC, SWIFT administration, ISO 20022 |
+| 5 | Information security & audit | ISO/IEC 27001:2022 Lead Auditor |
+| 6 | AI infrastructure | NINA — designed, built, governed |
 
 16+ years turning complex banking, compliance, and technical systems into governed, auditable, automated operations.
 
@@ -125,6 +129,8 @@ Same question, three frontier models, independent assessments — plus computed 
 - **[Live architecture graph](https://aibony.github.io/architecture.html)** — not a diagram; the real NDS graph, machine-generated on every publish. Click any module to walk four tiers deep: subdomains → functions → parameters.
 - **[Live status page](https://aibony.github.io/systems.html)** — repository health, build pipelines and tooling, re-synced every 30 minutes.
 - **[Raw metrics feed](https://aibony.github.io/stats.json)** — the JSON behind every number above, published openly.
+- **[Medium — I have 9,576+ commits and I hand-wrote almost none of them](https://medium.com/@aibony/i-have-9-576-commits-and-i-hand-wrote-almost-none-of-them-5ae9367d6597)**
+- **[Substack — Your AI Pilot Will Not Fail on Accuracy](https://aibony.substack.com/p/your-ai-pilot-will-not-fail-on-accuracy)**
 
 **What you can verify without trusting me:** the architecture graph, the raw feed, the deployment clock on [the site](https://aibony.github.io) (fetched from GitHub's API by your own browser), and the published essays. **What you cannot:** the repository is private, so commit and element counts are computed inside it and published here. I would rather name that limit than have it discovered.
 
