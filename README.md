@@ -85,12 +85,12 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 | Test files | **535** |
 | Decision records (ADR) | **31** |
 | Kernel directives | **205** |
-| Governance gate | **FAIL · 40.0/100** |
-| Version history | **741.3 MB** |
+| Governance gate | **FAIL · 60.0/100** |
+| Version history | **743.1 MB** |
 
 Open PRs **0** · open branches **0** · all of it under a **2 GB VRAM** ceiling.
 
-Last sync **2026-08-05 16:00 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+Last sync **2026-08-05 16:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
 <!-- NINA:LIVE:END -->
 
 ## Background
