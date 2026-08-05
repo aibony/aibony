@@ -106,7 +106,7 @@ Last sync **2026-08-05 05:30 UTC** · [raw feed](https://aibony.github.io/stats.
 | 5 | Information security & audit | ISO/IEC 27001:2022 Lead Auditor · Basel III · ICRRS credit risk frameworks · AML/KYC |
 | 6 | AI infrastructure | NINA — designed, built, governed: multi-agent orchestration, LLM routing, local inference |
 
-16+ years turning complex banking, compliance, and technical systems into governed, auditable, automated operations.
+Nearly 17 years turning complex banking, compliance, and technical systems into governed, auditable, automated operations.
 
 ---
 
