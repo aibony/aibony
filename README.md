@@ -76,7 +76,7 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 | Metric | Value |
 |---|---|
 | Commits | **11,147** |
-| Merged PRs | **2,589** |
+| Merged PRs | **2,593** |
 | Governed elements | **38,436** |
 | Classified entities | **2,577** |
 | Capabilities | **546** |
@@ -86,11 +86,11 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 | Decision records (ADR) | **30** |
 | Kernel directives | **205** |
 | Governance gate | **PASS · 100.0/100** |
-| Version history | **669.3 MB** |
+| Version history | **673.4 MB** |
 
-Open PRs **0** · open branches **1** · all of it under a **2 GB VRAM** ceiling.
+Open PRs **2** · open branches **7** · all of it under a **2 GB VRAM** ceiling.
 
-Last sync **2026-08-05 00:00 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+Last sync **2026-08-05 00:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
 <!-- NINA:LIVE:END -->
 
 ## Background
