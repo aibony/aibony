@@ -80,17 +80,17 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 | Governed elements | **38,436** |
 | Classified entities | **2,577** |
 | Capabilities | **546** |
-| Dependency edges | **879** |
+| Dependency edges | **876** |
 | Python modules | **923** |
 | Test files | **542** |
 | Decision records (ADR) | **31** |
 | Kernel directives | **205** |
-| Governance gate | **FAIL · 60.0/100** |
-| Version history | **738.0 MB** |
+| Governance gate | **FAIL · 80.0/100** |
+| Version history | **739.9 MB** |
 
-Open PRs **15** · open branches **15** · all of it under a **2 GB VRAM** ceiling.
+Open PRs **20** · open branches **20** · all of it under a **2 GB VRAM** ceiling.
 
-Last sync **2026-08-05 13:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+Last sync **2026-08-05 14:00 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
 <!-- NINA:LIVE:END -->
 
 ## Background
