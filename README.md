@@ -100,11 +100,11 @@ Last sync **2026-08-05 05:30 UTC** · [raw feed](https://aibony.github.io/stats.
 | # | Discipline | Evidence |
 |---|---|---|
 | 1 | Mechanical engineering | B.Sc., IUT, OIC scholarship |
-| 2 | Business & management | MBA summa cum laude, NSU |
-| 3 | Banking operations | Cash, general banking, credit |
-| 4 | Trade finance & payments | LC, SWIFT administration, ISO 20022 |
-| 5 | Information security & audit | ISO/IEC 27001:2022 Lead Auditor |
-| 6 | AI infrastructure | NINA — designed, built, governed |
+| 2 | Business & management | MBA summa cum laude, NSU · NDC 02 · Ideal 00 |
+| 3 | Banking operations | Cash, general banking, credit — full-stack, not one desk |
+| 4 | Trade finance & payments | LC, sole SWIFT administrator for the entire bank network, ISO 20022 / CBPR+ trainer |
+| 5 | Information security & audit | ISO/IEC 27001:2022 Lead Auditor · Basel III · ICRRS credit risk frameworks · AML/KYC |
+| 6 | AI infrastructure | NINA — designed, built, governed: multi-agent orchestration, LLM routing, local inference |
 
 16+ years turning complex banking, compliance, and technical systems into governed, auditable, automated operations.
 
