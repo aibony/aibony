@@ -81,8 +81,8 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 | Classified entities | **2,577** |
 | Capabilities | **546** |
 | Dependency edges | **881** |
-| Python modules | **981** |
-| Test files | **538** |
+| Python modules | **983** |
+| Test files | **539** |
 | Decision records (ADR) | **33** |
 | Kernel directives | **205** |
 | Governance gate | **PASS · 100.0/100** |
@@ -90,7 +90,7 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 
 Open PRs **1** · open branches **1** · all of it under a **2 GB VRAM** ceiling.
 
-Last sync **2026-08-06 15:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+Last sync **2026-08-06 16:00 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
 <!-- NINA:LIVE:END -->
 
 ## Background
