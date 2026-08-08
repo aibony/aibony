@@ -75,22 +75,22 @@ Since 2024, across successive iterations (current codebase since June 2026), I h
 
 | Metric | Value |
 |---|---|
-| Commits | **11,607** |
-| Merged PRs | **2,899** |
+| Commits | **11,666** |
+| Merged PRs | **2,903** |
 | Governed elements | **38,436** |
 | Classified entities | **2,577** |
 | Capabilities | **546** |
-| Dependency edges | **887** |
-| Python modules | **1,041** |
-| Test files | **547** |
+| Dependency edges | **883** |
+| Python modules | **974** |
+| Test files | **550** |
 | Decision records (ADR) | **39** |
 | Kernel directives | **205** |
-| Governance gate | **PASS · 100.0/100** |
-| Version history | **758.8 MB** |
+| Governance gate | **FAIL · 70.0/100** |
+| Version history | **772.5 MB** |
 
-Open PRs **6** · open branches **6** · all of it under a **2 GB VRAM** ceiling.
+Open PRs **1** · open branches **1** · all of it under a **2 GB VRAM** ceiling.
 
-Last sync **2026-08-08 13:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
+Last sync **2026-08-08 19:30 UTC** · [raw feed](https://aibony.github.io/stats.json) · [live architecture graph](https://aibony.github.io/architecture.html) · [live status page](https://aibony.github.io/systems.html)
 <!-- NINA:LIVE:END -->
 
 ## Background
